@@ -1,4 +1,4 @@
-OBJECT = main.o
+OBJECT = main.o lib.o
 TARGET = hello
 
 all:$(TARGET)
